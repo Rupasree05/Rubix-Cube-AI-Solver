@@ -13,7 +13,7 @@ st.set_page_config(page_title="Rubik's Cube AI Solver", layout="wide")
 # --- CSS styling
 st.markdown("""
 <style>
-body { background: linear-gradient(135deg, #071A2D, #0B3B56); color: #e6f7ff; }
+body { background: linear-gradient(135deg, #071A2D, #0B3B56); color: black; }
 h1 { color:#FFD166; text-align:center; }
 .card { background: rgba(255,255,255,0.03); padding: 12px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); }
 .small { font-size:0.9rem; color:#cfeefb; }
